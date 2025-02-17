@@ -230,3 +230,9 @@ text-decoration: blink;
 font-style: italic;
 
 }
+.class{
+	text-align: right;
+}
+.class2{
+	text-align: left;
+}
