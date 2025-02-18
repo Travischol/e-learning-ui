@@ -101,7 +101,7 @@ width: 33.33%;
 	padding: 10px, 10px;
 	color: white;
 	 background: #fff;
-            border-radius: 10px;
+            border-radius: 10rem;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             overflow: hidden;
             transition: transform 0.3s ease;
@@ -110,6 +110,10 @@ width: 33.33%;
             margin: 10px;
             padding-left: 10px;
             padding-right:10px ;
+
+  display: block;
+  margin: auto;
+
 
 
 
@@ -133,7 +137,7 @@ width: 33.33%;
 
 }
 .sherif-1{
-	 background: #fff;
+	 background-color:pink;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             overflow: hidden;
@@ -143,6 +147,7 @@ width: 33.33%;
       
         padding: 10px;
         margin: 10px;
+
 
 }
 .text{
@@ -222,8 +227,8 @@ align-items: center;
 height: 30px;
 }
 .banner {
-background-color: #f7941d;
-color:blue;
+background-color:blue;
+color:white;
 text-align: center;
 padding: 10px 15px;
 text-decoration: blink;
@@ -235,4 +240,45 @@ font-style: italic;
 }
 .class2{
 	text-align: left;
+}
+.p{
+	
+	font-size: 20px;
+}
+.im{
+	
+      border-image: 10%;
+}
+.H1{
+	text-align: center;
+}
+.form{
+	width: 350px;
+	border-radius: 5px;
+	height: 30px;
+	padding-left: 2rem;
+	margin-bottom: 3rem;
+
+
+}
+.reply{
+	width: 1000px;
+	height: 100px;
+	border-radius: 10px;
+	padding-left: 2rem;
+}
+.message{
+	margin-left: 55rem;
+}
+
+
+.click{
+	text-align: left;
+	padding-top: 1rem;
+	width: 155px;
+	padding-bottom: 1rem;
+	background-color:pink ;
+	color: white;
+	border-radius: 10px;
+	margin-top: 0.1rem;
 }
