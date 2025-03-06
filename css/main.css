@@ -67,17 +67,21 @@ width: 33.33%;
 }
 .ul {
   list-style-type: none;
-  margin: 0;
+  margin: 1rem;
   padding: 0;
   overflow: hidden;
- background-color:;
+ background-color:sorrell-brown;
   display: flex;
   font-size: 20px;
+  font-family: charm;
+  color: purple;
 }
 
 .li {
   margin-left: 1rem;
-  color: blue;
+  color: palevioletred;
+  border: 1rem;
+  box-shadow: purple;
 }
 
 .block{
@@ -115,7 +119,7 @@ width: 33.33%;
   display: block;
   margin: auto;
 
-
+word-break: break-word;
 
 
 }
@@ -130,15 +134,18 @@ width: 33.33%;
 }
 .me-1{
 	text-align: left;
-	color: white;
+	color: black;
 	padding-top: 5px;
 	padding-bottom: 5px;
+ font-family: 'Charm';font-size: 22px;
+    word-break: break-word;
+    text-align: right;
+    vertical-align: inherit;
 
-    background-color: #0056b3;
 
 }
 .sherif-1{
-	 background-color:pink;
+	 background-color:whitesmoke;
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
             overflow: hidden;
@@ -190,7 +197,7 @@ width: 33.33%;
 }
 .block{
 	background-color: rgba(0, 0, 0, 0.5);
-	padding-bottom: 120px;
+	padding-bottom: 155px;
 	padding-top: 135px;
 
 }
@@ -219,7 +226,7 @@ width: 33.33%;
 }
 
 .header {
-background-color: #f7f7f7;
+background-color: black;
 padding: 10px 15px;
 display: flex;
 justify-content: space-between;
@@ -230,7 +237,7 @@ height: 30px;
 }
 .banner {
 background-color:blue;
-color:white;
+color:lightgreen;
 text-align: center;
 padding: 10px 15px;
 text-decoration: blink;
@@ -306,4 +313,25 @@ color: dark;
 }
 .back-1{
 	background-color: lightblue;
+}
+.col{
+	 font-family: 'Charm';
+	 font-size: 20px;
+}
+.head{
+	color: purple;
+}
+.tx{
+	color: white;
+}
+.ul-1{
+  list-style-type: none;
+  margin: 1rem;
+  padding: 0;
+  overflow: hidden;
+ background-color:sorrell-brown;
+  display: flex;
+  font-size: 20px;
+  font-family: charm;
+  color: purple;
 }
